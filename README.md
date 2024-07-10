@@ -5,14 +5,14 @@
 <b>MongoDB | Express | EJS | Node</b>
 </p>
 
-> Campus OLX is an online platform that allows users to buy and sell old items within the campus.
+>  vOLX is an online platform that allows users to buy and sell old items within the campus.
 
 
 
 ## 🕵️‍♀️ About the Project
 **Problem Description :**
 
-Someone has completed his/her degree and is going to leave campus but don't know what to do with the personal belongings like cycle, mattress, electric Kettle etc or there is someone who is new in the campus but don't want to spend a lot of money on buying a new cycle. The current situation is that every student receives a lot of e-mails regarding old items listed on sale by someone, whether he/she wants or not. This often leads to the problem of filling of our mailbox and we may face problem while searching for other important e-mails.
+Someone Who wants to buy anything but don' want to spend a lot of money on buying a new items. The current situation is that every student receives a lot of e-mails regarding old items listed on sale by someone or in whatsapp groups, whether he/she wants or not. This often leads to the problem of filling of our chats and we may face problem while searching for other important messages.
 
 **Solution :** 
 
@@ -43,7 +43,7 @@ This project is an attempt to solve the above problem by creating a pulic platfo
 
 ## 🙏 Thanks :)
 ```js
-if ( youLovedProject() ) {
- starIt();
+if ( Likedit() ) {
+ makeIt();
 }
 ```
